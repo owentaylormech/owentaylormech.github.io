@@ -9,56 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+Objective
+======
+A motivated Mechanical Engineering student with hands-on experience in automotive systems, looking to leverage my technical skills and leadership experience in a challenging internship or co-op position. Committed to advancing sustainable engineering practices and contributing to innovative engineering projects.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+Bachelor of Engineering in Mechanical Engineering
+*Toronto Metropolitan University — Toronto, ON*
+*Expected Graduation: April 2027*
+  * GPA: 3.00
+  * Relevant Coursework: Thermodynamics, Fluid Mechanics, Machine Design, Control Systems
+  
+Extracurricular Activities
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+A/C Accumulator Team Lead
+*Toronto Met Formula Racing (TMFR) — Toronto, ON*
+*June 2024 – Present*
+  * Regenerative Braking Development: Spearheaded the integration of a regenerative braking system, enhancing the energy 
+    efficiency of the TMFR electric race car. Successfully reduced braking energy loss by 20%, contributing to improved 
+    overall vehicle performance.
+  * AC Accumulator Redesign: Led the redesign of the AC accumulator segment, optimizing the system for better thermal 
+    management and reliability under race conditions. The new design increased cooling efficiency by 15%.
+  * Teensy Data Logger Programming: Developed and implemented C code for a Teensy-based data logger, enabling real-time 
+    monitoring and analysis of critical vehicle parameters during testing and competitions.
+  * Website Development: Designed and built the current TMFR website, creating an interactive platform that showcases the 
+    team's achievements, events, and technical progress. Enhanced user experience and improved team visibility online.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Professional Experience
+======
+Sales Associate
+*Canadian Tire Corporation — Ottawa, ON*
+*June 2019 – August 2021*
+  * Provided excellent customer service in the automotive department, assisting customers with product selection and 
+    troubleshooting.
+  * Gained valuable knowledge of automotive products and retail operations, enhancing my understanding of practical 
+    mechanical applications.
+  * Collaborated with team members to maintain inventory accuracy and ensure a well-organized workspace.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Technical: CAD (SolidWorks, AutoCAD), MATLAB, Python, Circuit Design, FEA Analysis, 3D Printing
+* Project Management: Agile Methodologies, Team Leadership, Budgeting, Timeline Management
+* Communication: Technical Writing, Public Speaking, Collaborative Problem-Solving
   
-Talks
+Certifications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Certified SolidWorks Associate (CSWA) — Dassault Systèmes
+* First Aid & CPR — Canadian Red Cross
   
-Teaching
+Awards & Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Dean's List — Toronto Metropolitan University
+* Best Energy Efficiency Award — TMFR Regional Competition 2024
