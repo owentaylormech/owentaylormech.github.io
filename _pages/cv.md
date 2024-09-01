@@ -16,8 +16,8 @@ A motivated Mechanical Engineering student with hands-on experience in automotiv
 Education
 ======
 Bachelor of Engineering in Mechanical Engineering  
-*Toronto Metropolitan University — Toronto, ON*
-*Expected Graduation: April 2027*
+*Toronto Metropolitan University — Toronto, ON*  
+*Expected Graduation: April 2027*  
   * GPA: 3.00
   * Relevant Coursework: Thermodynamics, Fluid Mechanics, Machine Design, Control Systems
   
