@@ -23,9 +23,9 @@ Bachelor of Engineering in Mechanical Engineering
   
 Extracurricular Activities
 ======
-A/C Accumulator Team Lead
-*Toronto Met Formula Racing (TMFR) — Toronto, ON*
-*June 2024 – Present*
+A/C Accumulator Team Lead  
+*Toronto Met Formula Racing (TMFR) — Toronto, ON*  
+*June 2024 – Present*  
   * Regenerative Braking Development: Spearheaded the integration of a regenerative braking system, enhancing the energy 
     efficiency of the TMFR electric race car. Successfully reduced braking energy loss by 20%, contributing to improved 
     overall vehicle performance.
@@ -38,9 +38,9 @@ A/C Accumulator Team Lead
 
 Professional Experience
 ======
-Sales Associate
-*Canadian Tire Corporation — Ottawa, ON*
-*June 2019 – August 2021*
+Sales Associate  
+*Canadian Tire Corporation — Ottawa, ON*  
+*June 2019 – August 2021*  
   * Provided excellent customer service in the automotive department, assisting customers with product selection and 
     troubleshooting.
   * Gained valuable knowledge of automotive products and retail operations, enhancing my understanding of practical 
@@ -62,3 +62,7 @@ Awards & Honors
 ======
 * Dean's List — Toronto Metropolitan University
 * Best Energy Efficiency Award — TMFR Regional Competition 2024
+
+References
+======
+Available upon request.
