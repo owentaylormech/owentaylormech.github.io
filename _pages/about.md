@@ -42,7 +42,3 @@ My experience as Mechanical Director has provided me with firsthand insight into
 ## Let's Connect
 ------
 I am excited about the possibility of contributing to a cutting-edge engineering project through a co-op placement or internship. If you’re interested in learning more about my work or discussing potential opportunities, please feel free to reach out. I look forward to connecting with you!
-
-**Email:** [owen.taylor@torontomu.ca](mailto:owen.taylor@torontomu.ca)
-- **LinkedIn:** [linkedin.com/in/owentaylormech](https://www.linkedin.com/in/owentaylormech)
-- **GitHub:** [github.com/owentaylormech](https://github.com/owentaylormech)
