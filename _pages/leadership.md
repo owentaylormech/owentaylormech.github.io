@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Leadership & Impact
-
 ## Acting Vice President of Academics (Winter 2025)
 - Hosted every MUES Exam Study Hall this semester
 - Organized mock midterms and finals with professors
