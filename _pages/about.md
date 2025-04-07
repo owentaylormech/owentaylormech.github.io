@@ -41,4 +41,6 @@ My experience as Mechanical Director has provided me with firsthand insight into
 
 ## Let's Connect
 ------
-I am excited about the possibility of contributing to a cutting-edge engineering project through a co-op placement or internship. If you’re interested in learning more about my work or discussing potential opportunities, please feel free to reach out. I look forward to connecting with you!
+Whether you have a question about my campaign, want to share feedback, or just want to chat about how academics can improve — I’m always open to hearing from you.
+
+Feel free to reach out!
