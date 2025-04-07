@@ -7,27 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-Owen Taylor | Mechanical Engineering Student
+Owen Taylor | Mechanical Engineering Student | Running for Vice President of Academic
 
-Hello! I'm Owen Taylor, a second-year Mechanical Engineering student at Toronto Metropolitan University, with a keen focus on automotive engineering and sustainable technologies. This portfolio is designed to showcase my academic achievements, hands-on projects, and technical skills, all of which reflect my readiness to contribute to a dynamic engineering team through co-op placements or internships.
+Hello! I'm Owen Taylor, a second-year Mechanical Engineering student at Toronto Metropolitan University and the current Mechanical Director for the Metropolitan Undergraduate Engineering Society (MUES). I'm excited to announce my candidacy for Vice President of Academics, a role through which I aim to enhance our academic environment and ensure every engineering student has the support they need to succeed.
 
-Engineering Excellence and Practical Experience
+Proven Leadership in Academic Support
 ------
-Despite being in the early stages of my academic journey, I have demonstrated a strong command of engineering fundamentals and an ability to apply them to real-world challenges. My coursework has provided me with a solid foundation in areas such as fluid mechanics, materials science, and thermodynamics, and I have consistently ranked among the top students in my class.
+In my tenure as Mechanical Director, I've had the privilege of representing over 500 students, collaborating closely with faculty, and addressing academic concerns specific to our department. My initiatives have included:
+- Organizing Faculty-Supported Study Halls: Recognizing the need for collaborative learning spaces, I coordinated study sessions led by faculty members, providing students with direct access to expert guidance.
+- Hosting Mock Midterms and Finals: To alleviate exam stress and better prepare students, I facilitated mock examinations that simulated real testing environments, helping students build confidence and identify areas for improvement.
+- Enhancing Course Resources: I worked with professors to develop and disseminate comprehensive course materials, ensuring students have the tools they need to excel academically.
 
-Beyond the classroom, I have gained valuable practical experience as a key member of the Toronto Met Formula Racing Team. My role has involved designing and implementing low-voltage power control circuits, critical for ensuring the reliability and performance of our race car's electrical systems. I have also led the development of a regenerative braking system, optimizing energy recovery to improve overall vehicle efficiency—a project that underscores my ability to innovate and deliver results under pressure. 
-
-Innovative Projects and Technical Skills
+Building Strong Relationships for Student Success
 ------
-My portfolio highlights a range of projects that demonstrate my technical expertise and problem-solving abilities. From creating a custom DC/DC converter to integrating advanced algorithms for energy management, my work reflects a deep understanding of both theoretical principles and practical applications. I am proficient in industry-standard tools such as SolidWorks, MATLAB, and AutoCAD, and I have hands-on experience with prototyping and testing in a fast-paced, team-oriented environment.
+My role has allowed me to forge strong relationships with professors, the First-Year Engineering Office (FYEO), and academic staff. These connections have been instrumental in:
+- Advocating for Student Needs: By maintaining open lines of communication with faculty and administration, I've effectively conveyed student concerns and worked towards practical solutions.
+- Facilitating Workshops and Seminars: Collaborating with academic staff, I've organized workshops focusing on study skills, time management, and exam strategies tailored to engineering students.
+- Serving as a First-Year Ambassador: In the upcoming academic year, I will take on the role of First-Year Ambassador, furthering my commitment to supporting students as they transition into university life.
 
-Career Aspirations
+My Vision as Vice President of Academics
 ------
-I am actively seeking co-op opportunities where I can apply my skills and knowledge to real-world engineering challenges. My goal is to contribute to projects that drive innovation, particularly in the areas of automotive engineering and sustainable technologies. I am eager to learn from industry professionals and contribute to a forward-thinking engineering team.
+If elected as VPA, I plan to build upon my current initiatives and introduce new strategies to enhance the academic experience for all engineering students. My objectives include:
+- Expanding Academic Support Services: Implementing more faculty-led study halls and peer tutoring programs to cater to diverse learning needs.
+- Improving Communication Channels: Establishing platforms where students can voice academic concerns and receive timely responses from the administration.
+- Promoting Mental Health and Well-being: Integrating wellness resources into the academic framework to support students' overall well-being.
+- Enhancing Accessibility of Resources: Ensuring that all students have equal access to course materials, workshops, and support services.
 
-Explore My Portfolio
+Why I Am the Best Candidate
 ------
-I encourage you to explore my portfolio to see detailed descriptions of my projects, technical skills, and academic accomplishments. Each section is designed to provide a comprehensive view of my capabilities and the value I can bring to your team.
+My experience as Mechanical Director has provided me with firsthand insight into the academic challenges our students face. My proactive approach to problem-solving, combined with established relationships within the university, positions me uniquely to advocate effectively for the student body. I am dedicated to creating an inclusive and supportive academic environment where every student can thrive.
 
 Let's Connect
 ------
