@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 Owen Taylor | Mechanical Engineering Student | Vice President of Academic
