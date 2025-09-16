@@ -7,8 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-| Mechanical Engineering Student | Vice President of Academic | [LinkedIn](https://www.linkedin.com/in/owen-taylor-9a2b81324/) |
-|:------------------------------:|:--------------------------:|:--------------------------------------------------------------:|
+| **Mechanical Engineering Student** | **Vice President of Academic** | **[LinkedIn](https://www.linkedin.com/in/owen-taylor-9a2b81324/)** |
 
 I am Owen Taylor, a third-year Mechanical Engineering student at Toronto Metropolitan University with a strong foundation in mechanical design, thermodynamics, and systems integration. My academic journey has provided me with technical skills in CAD modeling, engineering analysis, and problem-solving, while my extracurricular involvement has given me the opportunity to apply these skills in practical, team-based environments.
 
