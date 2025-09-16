@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Owen Taylor | Mechanical Engineering Student | Running for Vice President of Academic
+Owen Taylor | Mechanical Engineering Student | Vice President of Academic
 
-Hello! I’m Owen Taylor, a second-year Mechanical Engineering student at Toronto Metropolitan University, currently serving as the Mechanical Director for the Metropolitan Undergraduate Engineering Society (MUES). I’m excited to announce my candidacy for Vice President of Academics, aiming to enhance our academic environment and ensure every engineering student has the support they need to succeed.
+I am Owen Taylor, a third-year Mechanical Engineering student at Toronto Metropolitan University with a strong foundation in mechanical design, thermodynamics, and systems integration. My academic journey has provided me with technical skills in CAD modeling, engineering analysis, and problem-solving, while my extracurricular involvement has given me the opportunity to apply these skills in practical, team-based environments.
 
-Over the past year, I’ve worked directly with students, professors, and faculty to strengthen our academic support systems. I’ve helped hundreds of students through personalized guidance, academic events, and direct collaboration with faculty — and I’m running for VPA because I believe that academic support should actually work for you.
+I currently serve as Vice President Academic for the Metropolitan Undergraduate Engineering Society (MUES), where I represent over 5,000 students and work directly with faculty to enhance academic support and student success. In this role, I have developed leadership, communication, and project management abilities through initiatives such as academic events, student advocacy, and collaboration with professors and administrators. These experiences have strengthened my ability to take initiative, manage complex responsibilities, and deliver results that positively impact others.
+
+Beyond academics, I have gained hands-on engineering experience through TMU Formula Racing, the university’s Formula SAE team. In this role, I have worked on the design, manufacturing, and integration of mechanical subsystems for a formula-style race car. My work has included CAD modeling of custom components, supporting the assembly of suspension and drivetrain systems, and assisting in the testing and troubleshooting of mechanical systems under competition conditions. This experience has allowed me to bridge theory and practice while developing teamwork, problem-solving, and technical precision in a fast-paced, engineering-focused environment.
+
+I am seeking a co-op opportunity where I can contribute to innovative projects, expand my technical expertise, and grow as an engineer. My goal is to apply both my technical training and leadership experience to develop practical engineering solutions, while continuing to learn from industry professionals in a dynamic and challenging environment.
 
 ## Proven Leadership in Academic Support
 ------
