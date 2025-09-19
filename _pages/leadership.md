@@ -9,27 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-## Acting Vice President of Academics (Winter 2025)
-- Hosted every MUES Exam Study Hall this semester
-- Organized mock midterms and finals with professors
-- Worked one-on-one with students and faculty to improve academic support
+## Vice President Academic – Metropolitan Undergraduate Engineering Society (MUES)
+As Vice President Academic for MUES, I represent over 5,000 undergraduate engineering students at Toronto Metropolitan University. I lead initiatives to improve academic support by creating centralized systems for study hall planning, coordinating exam resources, and collaborating with course unions and faculty. These efforts have reduced overlap, saved resources, and ensured students have better access to academic help. This role has strengthened my skills in leadership, project management, and advocacy while teaching me how to deliver large-scale impact within a diverse student community.
 
-## Mechanical Director, MUES
-- Represented 500+ students in Mechanical Engineering
-- Collaborated directly with faculty on academic issues and student support
-- Organized large-scale academic and student development events
+## Mechanical Director – Metropolitan Undergraduate Engineering Society (MUES)
+Before becoming Vice President Academic, I served as Mechanical Director for MUES. In this position, I coordinated academic and community support initiatives for mechanical engineering students, bridging communication between students, faculty, and the course union. My work focused on strengthening academic programming, supporting peers with course-specific challenges, and representing the interests of mechanical engineering students within the broader society. This experience helped me build leadership skills and prepared me to take on the larger responsibilities of Vice President Academic.
 
-## First-Year Ambassador (2025–2026)
-- Selected to support incoming students in their transition to engineering
-- Building stronger pathways between FYEO, professors, and student services
+## First-Year Ambassador – First Year Engineering Office (FYEO)
+As a First-Year Ambassador, I supported incoming students in transitioning to university life. I provided academic guidance, shared insights about engineering programs, and helped run engagement events that built community among first-year students. Through this role, I developed mentorship and communication skills while learning how to connect with and support peers from different backgrounds.
 
-## Events & Initiatives
-- 10+ official MUES study halls hosted this year  
-- 5 mock midterm/final events co-organized with profs  
-- Academic planning tools and survival guides in progress
+## TMU Formula Racing – Mechanical Systems Team Member
+On the Formula SAE team, I contribute to the design, assembly, and integration of mechanical subsystems for a formula-style race car. My work includes CAD modeling of custom components, assisting with suspension and drivetrain assembly, and supporting system troubleshooting during testing. Collaborating with a multidisciplinary team has given me valuable experience in applying theory to practice, working under deadlines, and leading small design tasks within a larger engineering project.
 
-## Skills & Strengths
-- Academic event planning  
-- Student representation & advocacy  
-- Faculty and administration collaboration  
-- Peer mentorship & one-on-one support  
+## Highlights
+- Represented 5,000+ engineering students through leadership in MUES.
+- Improved access to academic support by centralizing study hall planning.
+- Coordinated initiatives as Mechanical Director to strengthen student resources.
+- Mentored first-year students and supported their transition to engineering.
+- Designed and assembled mechanical subsystems for a Formula SAE race car.
+- Strengthened collaboration and problem-solving skills in high-pressure, team-based settings. 
